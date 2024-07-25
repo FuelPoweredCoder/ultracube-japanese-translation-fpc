@@ -1,0 +1,11 @@
+{
+  "name": "ultracube-japanese-translation-fpc",
+  "version": "0.5.6",
+  "title": "Ultracube 日本語化",
+  "author": "FuelPoweredCoder",
+  "factorio_version": "1.1",
+  "dependencies": [
+    "base",
+    "? Ultracube"
+  ]
+}
